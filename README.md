@@ -36,6 +36,8 @@ stock-analyzer/
 └── requirements.txt
 
 ## 📞 联系
-
+![GitHub last commit](https://img.shields.io/github/last-commit/你的用户名/stock-analyzer)
+![GitHub repo size](https://img.shields.io/github/repo-size/你的用户名/stock-analyzer)
+![GitHub License](https://img.shields.io/github/license/你的用户名/stock-analyzer)
 * 作者：你的名字
 * GitHub: [@vlandyao](https://github.com/vlandyao)
