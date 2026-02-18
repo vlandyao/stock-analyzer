@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 数据文件（不要上传大文件）
+data/raw/
+*.csv
+*.xlsx
+*.pkl
+*.pickle
+
+# 项目生成
+stock_data/
+wind_data/
+charts/
+logs/
+output/
